@@ -5,4 +5,8 @@ The project introduces a CNN machine learning model for Radiofrequency fingerpri
 Inspiring from previous works regarding RFF , this CNN-based algorithm was developed to classify devices  using the In-phase and Quadrature-phase samples recovered from the signals, and that because of their nature, cannot be completely identical from one device to another.  Indeed, this technique theoretically allows the identification of a device just through the analysis of its signal.
 This model has achieved 99.9\% of accuracy on data transmitted over-the-air up to 5 devices. 
 ## **Structure**
-This repository 
+This repository contains the following files:
+- Data_load.py : 
+- Model_CNN.py : 
+- Train_and_Evaluate.py :
+- main.py :
