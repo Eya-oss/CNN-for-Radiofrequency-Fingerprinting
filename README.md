@@ -6,7 +6,7 @@ Inspiring from previous works regarding RFF , this CNN-based algorithm was devel
 This model has achieved 99.9\% of accuracy on data transmitted over-the-air up to 5 devices. 
 ## **Structure**
 This repository contains the following files:
-- Data_load.py : 
-- Model_CNN.py : 
-- Train_and_Evaluate.py :
-- main.py :
+- 'Data_load.py' : 
+- 'Model_CNN.py' : 
+- 'Train_and_Evaluate.py' :
+- 'main.py' :
